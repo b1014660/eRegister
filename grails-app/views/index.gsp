@@ -7,5 +7,7 @@
 	</head>
 	<body>
 		<p>This is eRegister</p>
+<p>
+<g:link controller="Instructor">Manage Instructors</g:link>
 	</body>
 </html>

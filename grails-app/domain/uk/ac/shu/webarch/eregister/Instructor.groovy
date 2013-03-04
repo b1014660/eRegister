@@ -4,5 +4,10 @@ class Instructor {
  String name 
 String staffNumber 
     static constraints = {
+
+
+
     }
+
+
 }
