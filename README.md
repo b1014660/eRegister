@@ -19,7 +19,12 @@ To access the application, Grails 2.1 must be installed and it would be benefici
 as this is the one I have used.
 
 To get the application via the terminal cloning code can be used: 
+First, open the terminal, type the code in to download it, then go into the app, run the browser and go to the local host. 
+
 git clone git@github.com:b1014660 /eRegister.git
+
+Alternatively 
+
 
 
 
