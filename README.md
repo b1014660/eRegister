@@ -10,5 +10,17 @@ The system should be used by admin staff for keeping data on students and staff.
 students, instructors, course, enrolment, registration class, registration entry and registration sheet and all can 
 be accessed online digitally. 
 
-In the module and this application I am exploring MVC and focusing on domain modelling to achieve the "Web Based Class
-Register". 
+In the module and this application I am exploring MVC and focusing on domain modelling to achieve a high quality 
+"Web Based Class Register". The domain modelling and mappings within the classes were based on an Entity Relationship
+Diagram handed to me at the start of the semester. The database is run on MySQL and is command driven via the terminal. 
+
+Installation
+To access the application, Grails 2.1 must be installed and it would be beneficial to run it on a Linux operating system
+as this is the one I have used.
+
+To get the application via the terminal cloning code can be used: 
+git clone git@github.com:b1014660 /eRegister.git
+
+
+
+
