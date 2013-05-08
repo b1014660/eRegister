@@ -14,7 +14,8 @@ In the module and this application I am exploring MVC and focusing on domain mod
 "Web Based Class Register". The domain modelling and mappings within the classes were based on an Entity Relationship
 Diagram handed to me at the start of the semester. The database is run on MySQL and is command driven via the terminal. 
 
-Installation
+Installation:
+
 To access the application, Grails 2.1 must be installed and it would be beneficial to run it on a Linux operating system
 as this is the one I have used.
 
@@ -23,8 +24,9 @@ First, open the terminal, type the code in to download it, then go into the app,
 
 git clone git@github.com:b1014660 /eRegister.git
 
-Alternatively 
+Alternatively clone from windows http://windows.github.com/
 
+Read only file: git://github.com/b1014660/eRegister.git
 
 
 
